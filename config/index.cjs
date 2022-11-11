@@ -33,7 +33,7 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '吕雨倬', year: '1997', date: '03-02',
+          type: '生日', name: '老婆', year: '1997', date: '08-13',
         },
         {
           type: '节日', name: '相识纪念日', year: '2022', date: '09-27',
@@ -44,7 +44,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2022-10-10' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2023-10-10' },
+        { keyword: 'marry_day', date: '0000-00-00' },
       ],
     },
   ],
